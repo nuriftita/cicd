@@ -1,4 +1,4 @@
-# using this awesome prebuild image:
+#. using this awesome prebuild image:
 FROM '123majumundur/php-7.1-nginx:cicd'
 MAINTAINER Nur Iftita <nuriftitha@gmail.com>
 
